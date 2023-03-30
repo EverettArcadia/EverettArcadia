@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @EverettArcadia
-- 👀 I’m interested in Game Development, Web Development, and App Development
-- 🌱 I am currently working on C#, Python, and PHP
+- I’m @EverettArcadia
+- I’m interested in Game Development, Cybersecurity, and Web Development
 
 <!---
 EverettArcadia/EverettArcadia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
